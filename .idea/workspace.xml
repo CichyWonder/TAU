@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e8705eb-afe2-4172-8f45-45600eb2ed51" name="Changes" comment="lab1" />
+    <list default="true" id="0e8705eb-afe2-4172-8f45-45600eb2ed51" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -132,7 +132,7 @@
       <updated>1665317663513</updated>
       <workItem from="1665317664685" duration="5710000" />
       <workItem from="1667667008638" duration="333000" />
-      <workItem from="1667732429942" duration="290000" />
+      <workItem from="1667732429942" duration="570000" />
     </task>
     <task id="LOCAL-00001" summary="lab1">
       <created>1665323068117</created>
@@ -141,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665323068117</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="zadania">
+      <created>1667732785310</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667732785310</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,6 +167,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lab1" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab1" />
+    <MESSAGE value="zadania" />
+    <option name="LAST_COMMIT_MESSAGE" value="zadania" />
   </component>
 </project>
